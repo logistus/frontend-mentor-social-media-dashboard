@@ -131,17 +131,13 @@ h3 {
 }
 
 .instagram {
-  border: 10px solid;
+  border-top: 3px solid;
   border-image-source: linear-gradient(
     to right,
     hsl(37, 97%, 70%),
     hsl(329, 70%, 58%)
   );
   border-image-slice: 1;
-  border-width: 3px;
-  border-bottom: none;
-  border-left: none;
-  border-right: none;
   mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
 }
 
