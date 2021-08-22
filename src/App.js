@@ -29,7 +29,7 @@ function App() {
             <CardTotal data={total} key={total.id} />)
           }
         </div>
-        <h2>Overview - Today</h2>
+        <h3>Overview - Today</h3>
         <div className="overviews">
           {
           overviews.map((overview) =>

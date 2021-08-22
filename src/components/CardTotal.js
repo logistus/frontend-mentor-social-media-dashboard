@@ -10,7 +10,7 @@ const CardTotal = ({data}) => {
         <div>@{data.username}</div>
       </div>
       <div className="card-totals-body">
-        <h3 className={theme}>{data.total}</h3>
+        <h2 className={theme}>{data.total}</h2>
         <p>{data.type}</p>
       </div>
       <div className="card-totals-footer">

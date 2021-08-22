@@ -58,7 +58,7 @@ h1.dark {
   color: hsl(0, 0%, 100%);
 }
 
-h2 {
+h3 {
   margin: 40px 0 20px;
 }
 
@@ -192,15 +192,15 @@ h2 {
   text-align: center;
 }
 
-.card-totals-body h3 {
+.card-totals-body h2 {
   font-size: 4em;
 }
 
-.card-totals-body h3.light {
+.card-totals-body h2.light {
   color: hsl(230, 17%, 14%);
 }
 
-.card-totals-body h3.dark {
+.card-totals-body h2.dark {
   color: hsl(0, 0%, 100%);
 }
 
